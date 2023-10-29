@@ -1,6 +1,6 @@
 {
   "name": "Emulated HUE",
-  "version": "0.3.1",
+  "version": "0.3.0",
   "description": "Hue Emulation for Home Assistant",
   "url": "https://github.com/lolieg/core",
   "slug": "emulated_hue",
